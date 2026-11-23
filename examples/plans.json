@@ -1,0 +1,30 @@
+{
+  "currency": "USD",
+  "plans": [
+    {
+      "free_allowance": {
+        "action": 100,
+        "token": 1000
+      },
+      "monthly_cap": 50.0,
+      "name": "starter",
+      "rates": [
+        {
+          "kind": "token",
+          "price_per_unit": 0.02,
+          "unit": "1k_tokens"
+        },
+        {
+          "kind": "action",
+          "price_per_unit": 0.01,
+          "unit": "action"
+        },
+        {
+          "kind": "minute",
+          "price_per_unit": 0.05,
+          "unit": "minute"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{"agent": "demo-agent", "customer": "acme", "id": "21053d5b-efb9-4189-a818-18d5144b3765", "kind": "token", "meta": {}, "timestamp": "2026-11-05T10:00:00Z", "unit": "token", "units": 5000}
+{"agent": "demo-agent", "customer": "acme", "id": "eaa95a36-1ad2-4b93-a2b8-8b2b2ea0ad8f", "kind": "action", "meta": {}, "timestamp": "2026-11-06T11:00:00Z", "unit": "action", "units": 250}
+{"agent": "demo-agent", "customer": "acme", "id": "c1552892-cddd-421c-9f85-10d13cf80f86", "kind": "minute", "meta": {}, "timestamp": "2026-11-07T12:00:00Z", "unit": "minute", "units": 30}
+{"agent": "demo-agent", "customer": "acme", "id": "fa1969b5-54c7-499d-adff-a38fe6340b6a", "kind": "token", "meta": {}, "timestamp": "2026-10-20T09:00:00Z", "unit": "token", "units": 10000}
